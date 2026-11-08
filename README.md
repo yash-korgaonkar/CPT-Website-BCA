@@ -1,6 +1,6 @@
 # BCA Computer Programming Team Website
 
-The official site for the Bergen County Academies Computer Programming Team — the club that trains students for USACO, ACSL, and other competitive programming contests. I build and maintain it as the team's webmaster.
+The official site for the Bergen County Academies Computer Programming Team — the club that trains students for USACO, ACSL, and other competitive programming contests.
 
 ## What's on the site
 
@@ -25,7 +25,3 @@ npm run dev
 ```
 
 Pushing to `main` builds and deploys automatically via `.github/workflows/nextjs.yml`.
-
-## Contributors
-
-[@yash-korgaonkar](https://github.com/yash-korgaonkar) (webmaster) · [@DharanishShivkiranKarthikeyan](https://github.com/DharanishShivkiranKarthikeyan)
